@@ -1,7 +1,7 @@
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, Me chamo Lucas Pierre</h1>
 
-<h4 align="center">Um desenvolvedor curioso que adora aprender e criar coisas novas. Estou aprendendo muito com a comunidade de código aberto e estou a prontidão em fazer o mesmo.
-<h4/>
+<h3 align="center">Um desenvolvedor curioso que adora aprender e criar coisas novas. Estou aprendendo muito com a comunidade de código aberto e estou a prontidão em fazer o mesmo.
+<h3/>
  
  <div align="center">
   <a href="https://github.com/lucasspierre">
