@@ -4,6 +4,8 @@
 <h4 align="center">Um desenvolvedor curioso que adora aprender e criar coisas novas. Estou aprendendo muito com a comunidade de código aberto e estou a prontidão em fazer o mesmo.
 <h4/>
  
+<br>
+ 
  <div align="center">
   <a href="https://github.com/lucasspierre">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasspierre&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
