@@ -1,9 +1,5 @@
 ## Hello World, Eu sou o Lucas Pierre
 
-<ul>
-  <li> teste
-</ul>
-
  <div align="center">
   <a href="https://github.com/lucasspierre">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasspierre&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
