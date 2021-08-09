@@ -1,5 +1,9 @@
-## Hello World, eu sou o Lucas Pierre
+<h1 align="center">Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, Me chamo Lucas Pierre</h1>
 
+<h4 align="center"></h4>
+
+<br>
+ 
  <div align="center">
   <a href="https://github.com/lucasspierre">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasspierre&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
