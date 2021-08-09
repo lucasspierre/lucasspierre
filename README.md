@@ -27,4 +27,4 @@
   
   ##
   
-  <a href="https://www.linkedin.com/in/lucasspierre/" target="_blank"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasspierre&repo=JavaScript&theme=dark" target="_blank"/></a>
+  <a href="" target="_blank"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasspierre&repo=Java&theme=dark" target="_blank"/></a>
