@@ -1,4 +1,4 @@
-<h1 align="center">Olá, Me chamo Lucas Pierre</h1>
+<h1 align="center">Olá, me chamo Lucas Pierre</h1>
 
 <h4 align="center">Um desenvolvedor curioso que adora aprender e criar coisas novas. Estou aprendendo muito com a comunidade de código aberto e estou a prontidão em fazer o mesmo.
 <h4/>
